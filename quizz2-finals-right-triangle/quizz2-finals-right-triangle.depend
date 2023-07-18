@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1689335559 source:c:\users\johnr\documents\bscs-i\intermediate programming\quiz problems\quizz2-finals-right-triangle\main.cpp
+	<iostream>
+	"Triangle.h"
+	"RightTriangle.h"
+
+1689335520 source:c:\users\johnr\documents\bscs-i\intermediate programming\quiz problems\quizz2-finals-right-triangle\righttriangleimp.cpp
+	"RightTriangle.h"
+	<cmath>
+
+1689335216 c:\users\johnr\documents\bscs-i\intermediate programming\quiz problems\quizz2-finals-right-triangle\righttriangle.h
+	"Triangle.h"
+
+1689335635 c:\users\johnr\documents\bscs-i\intermediate programming\quiz problems\quizz2-finals-right-triangle\triangle.h
+	<cmath>
+
+1689335256 source:c:\users\johnr\documents\bscs-i\intermediate programming\quiz problems\quizz2-finals-right-triangle\triangleimp.cpp
+	"Triangle.h"
+	<cmath>
+
